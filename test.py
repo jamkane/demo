@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 __author__ = 'zhoujim'
-print("hello world!!")
+print("hello world!!")git remote -v
